@@ -6,7 +6,7 @@
  * Primero abri un block de notas y escribí el código:
    <img width="960" alt="BN1" src="https://github.com/MariaAleja05/Reto2_Primiparos/assets/141857519/8ba8745b-9d80-4bd0-bfb9-f0623abe9c18">
  * Despues lo guardé en mi carpeta y lo corrí en el terminal:
-        ![imagename]()
+   <img width="960" alt="BN2" src="https://github.com/MariaAleja05/Reto2_Primiparos/assets/141857519/e23eb3cf-ad2d-4077-af3d-f31519346a53">
 
 **2.** Aquí lo ejecuté en el interprete de **python**: 
  <img width="960" alt="PY1" src="https://github.com/MariaAleja05/Reto2_Primiparos/assets/141857519/f4d9737b-2529-4371-b5a7-e5808250fb28">
