@@ -1,6 +1,6 @@
 # Reto número 2 repo
 
- ## **Date:** 14-08-2023
+ ### **Fecha:** 14-08-2023
 
 **1.** Aquí lo ejecuté usando el **Block de notas** y el **terminal**:
  * Primero abri un block de notas y escribí el código:
